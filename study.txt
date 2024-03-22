@@ -1,0 +1,65 @@
+find()  for get
+fintOne() for perticular 
+create()  for creating 
+
+
+Create a User:
+
+Read/Get a User by id: 
+
+Update a User: 
+
+Delete a User:
+
+List All Users:
+
+Search Users by name:
+
+Authenticate/Login a User: Validate user credentials and grant access to protected resources.
+
+Logout a User: End the user session and invalidate the authentication token.
+
+Reset User Password:
+
+Verify User Email: Send email verification links to users to confirm their email addresses.
+
+Activate/Deactivate User Account:
+
+All type of validaton on userDetails:
+
+User Profile Update: Enable users to update their profiles, including personal details, profile pictures, etc.
+
+Role-Based Access Control (RBAC): Implement role-based permissions to control user access to specific features or resources.
+
+User History: Track user activities or actions performed by users within the application.
+
+User Preferences: Allow users to set preferences or customize their experience within the application.
+
+User Data Export/Import: Enable users to export their data or import data from external sources.
+
+User Notifications: Send notifications to users for important events or updates.
+
+User Feedback/Surveys: Collect feedback from users to improve the application.
+
+User Blocking/Unblocking: Allow administrators to block or unblock users based on their behavior.
+
+User Analytics: Analyze user behavior and interactions to gain insights and improve user experience.
+
+beginner level:-
+
+1. boat 4days
+2. quate generator 4days
+
+intermediate level:-
+
+1. chat room (soket,io) 4days
+2. booking
+
+
+advanced:-
+1.  steam node js
+2.  
+
+
+** we are going to store cookiees fromthe baxkedn not from frontend becuse of server side scripting
+hhtp only cokkies
